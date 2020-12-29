@@ -1,0 +1,10 @@
+{
+    "vendor": "Genex Software",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.gemex.sample",
+    "title": "First App",
+    "type": "web",
+    "version": "0.0.1"
+}
